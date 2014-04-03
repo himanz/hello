@@ -1,0 +1,36 @@
+# Step 1
+
+Brainstorm features
+* Set reminders
+
+
+* Add priorities
+
+* Email reminders
+* Tags
+* Color
+
+* Trash bin
+* Show completed items only
+* Sort
+
+
+For Today
+* Create items
+* Main menu
+* Delete items
+* Mark as completed
+* View all
+* Edit items
+
+# Step 2
+
+Decide how to model our program
+
+1. Interface: contains methods for each action
+2. Create a List: a class
+3. Create a class for a ListItem
+
+# Step 3
+
+Build the interface
