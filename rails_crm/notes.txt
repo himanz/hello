@@ -1,0 +1,20 @@
+## Step 2: Think about your data models
+
+Given that we're creating the CRM, what do we need?
+
+What attributes should our model have?
+
+Contact
+
+id
+first_name
+last_name
+email
+notes
+phone_number
+created_at
+updated_at
+
+## Step 3: Create your model
+
+Try using a generator
